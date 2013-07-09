@@ -2,3 +2,9 @@ jason:
   first_name: "Jason"
   last_name: "Sig"
   email: "jaysig@gmail.com"  
+
+Jim:
+  first_name: "Jim"
+  last_name: "Hoskin"
+  email: "jimhos@gmail.com"  
+  profile_name: "jimhos"
